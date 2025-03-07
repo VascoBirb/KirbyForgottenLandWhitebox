@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ForgottenLandWhitebx",
+			"Path": "..\\Source\\ForgottenLandWhitebx.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ForgottenLandWhitebxEditor",
+			"Path": "..\\Source\\ForgottenLandWhitebxEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,18 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ForgottenLandWhitebx.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\alexa\OneDrive\Documents\Unreal Projects\ForgottenLandWhitebx\Intermediate\Build\Win64\x64\ForgottenLandWhitebxEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\alexa\OneDrive\Documents\Unreal Projects\ForgottenLandWhitebx\Intermediate\Build\Win64\x64\UnrealEditor\Development\ForgottenLandWhitebx\ForgottenLandWhitebx.init.gen.cpp.obj"
+"C:\Users\alexa\OneDrive\Documents\Unreal Projects\ForgottenLandWhitebx\Intermediate\Build\Win64\x64\UnrealEditor\Development\ForgottenLandWhitebx\ForgottenLandWhitebxCharacter.gen.cpp.obj"
+"C:\Users\alexa\OneDrive\Documents\Unreal Projects\ForgottenLandWhitebx\Intermediate\Build\Win64\x64\UnrealEditor\Development\ForgottenLandWhitebx\ForgottenLandWhitebxGameMode.gen.cpp.obj"
+"C:\Users\alexa\OneDrive\Documents\Unreal Projects\ForgottenLandWhitebx\Intermediate\Build\Win64\x64\UnrealEditor\Development\ForgottenLandWhitebx\ForgottenLandWhitebx.cpp.obj"
+"C:\Users\alexa\OneDrive\Documents\Unreal Projects\ForgottenLandWhitebx\Intermediate\Build\Win64\x64\UnrealEditor\Development\ForgottenLandWhitebx\ForgottenLandWhitebxCharacter.cpp.obj"
+"C:\Users\alexa\OneDrive\Documents\Unreal Projects\ForgottenLandWhitebx\Intermediate\Build\Win64\x64\UnrealEditor\Development\ForgottenLandWhitebx\ForgottenLandWhitebxGameMode.cpp.obj"
+"C:\Users\alexa\OneDrive\Documents\Unreal Projects\ForgottenLandWhitebx\Intermediate\Build\Win64\x64\UnrealEditor\Development\ForgottenLandWhitebx\PerModuleInline.gen.cpp.obj"
+"C:\Users\alexa\OneDrive\Documents\Unreal Projects\ForgottenLandWhitebx\Intermediate\Build\Win64\x64\UnrealEditor\Development\ForgottenLandWhitebx\Default.rc2.res"
+/OUT:"C:\Users\alexa\OneDrive\Documents\Unreal Projects\ForgottenLandWhitebx\Intermediate\Build\Win64\x64\UnrealEditor\Development\ForgottenLandWhitebx\UnrealEditor-ForgottenLandWhitebx.lib"

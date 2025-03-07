@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ForgottenLandWhitebx.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ForgottenLandWhitebx.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ForgottenLandWhitebxEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ForgottenLandWhitebx">
+      <UniqueIdentifier>{EE05FB26-E50B-3C63-AE13-EBA79BD16F0D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ForgottenLandWhitebx\ForgottenLandWhitebx.Build.cs">
+      <Filter>Source\ForgottenLandWhitebx</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ForgottenLandWhitebx\ForgottenLandWhitebx.cpp">
+      <Filter>Source\ForgottenLandWhitebx</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ForgottenLandWhitebx\ForgottenLandWhitebx.h">
+      <Filter>Source\ForgottenLandWhitebx</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ForgottenLandWhitebx\ForgottenLandWhitebxCharacter.cpp">
+      <Filter>Source\ForgottenLandWhitebx</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ForgottenLandWhitebx\ForgottenLandWhitebxCharacter.h">
+      <Filter>Source\ForgottenLandWhitebx</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ForgottenLandWhitebx\ForgottenLandWhitebxGameMode.cpp">
+      <Filter>Source\ForgottenLandWhitebx</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ForgottenLandWhitebx\ForgottenLandWhitebxGameMode.h">
+      <Filter>Source\ForgottenLandWhitebx</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

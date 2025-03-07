@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\alexa\\onedrive\\documents\\unreal projects\\forgottenlandwhitebx\\source\\forgottenlandwhitebx\\forgottenlandwhitebx.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\alexa\\onedrive\\documents\\unreal projects\\forgottenlandwhitebx\\intermediate\\build\\win64\\x64\\forgottenlandwhitebxeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\alexa\\onedrive\\documents\\unreal projects\\forgottenlandwhitebx\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\forgottenlandwhitebx\\definitions.forgottenlandwhitebx.h",
+            "c:\\users\\alexa\\onedrive\\documents\\unreal projects\\forgottenlandwhitebx\\source\\forgottenlandwhitebx\\forgottenlandwhitebx.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
